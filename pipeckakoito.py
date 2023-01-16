@@ -1,1 +1,1 @@
-print('watafak ')
+print('watafak mazafaker')
